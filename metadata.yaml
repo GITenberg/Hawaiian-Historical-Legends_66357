@@ -1,0 +1,29 @@
+_repo: Hawaiian-Historical-Legends_66357
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Westervelt, W. D. (William Drake)
+    aliases:
+    - Westervelt, William Drake
+    - Westervelt, William D. (William Drake)
+    birthdate: 1849
+    deathdate: 1939
+    gutenberg_agent_id: '35935'
+    url: http://www.gutenberg.org/2009/agents/35935
+    wikipedia: https://en.wikipedia.org/wiki/William_Drake_Westervelt
+description: ''
+gutenberg_issued: '2021-09-21'
+identifiers:
+  gutenberg: '66357'
+  lccn: '24003709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Hawaii'
+- !lcc 'GR'
+- !lcsh 'Legends -- Hawaii'
+- GITenberg
+title: Hawaiian Historical Legends
+url: http://www.gutenberg.org/ebooks/66357
